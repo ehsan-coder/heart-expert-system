@@ -1,0 +1,12 @@
+1 = "IF DISEASE=Angina THEN TREATMENT=Angioplastry and Stent treatment. Should take oral medications that include Nitrates, Aspirin.";
+2 = "IF DISEASE=Arrhythmias THEN TREATMENT=Maze procedure and cardioversion treatment that uses electricity to shock the heart back into a normal rhythm while the patient is sedated are to be done.";
+3 = "IF DISEASE=Congenital_heart_disease THEN TREATMENT=Treatment include medicines, catheter procedures, surgery, and heart transplants.";
+3 = "IF DISEASE=Coronary_Heart_Disease THEN TREATMENT=Coronary bypass surgery should be done. Beta blockers and calcium channel blockers should be given to the patient for speed recovery";
+4 = "IF DISEASE=Deep_vein_thrombosis THEN TREATMENT=Oral antocoagulants, Heparin and Vitamin K antagonist should be taken";
+5 = "IF DISEASE=Dilated_Cardiomyopathy THEN TREATMENT=Treated with Beta blockers and ACE inhibitors can help to recover soon";
+6 = "IF DISEASE=Heart_Attack THEN TREATMENT=Thrombolysis and baloon Angioplastry surgery are to be undergone.";
+7 = "IF DISEASE=Heart_failure THEN TREATMENT=Heart transplantation or coronary bypass surgery is to be undergone. Blood Thinning medications can prevent further damage to the heart. ";
+8 = "IF DISEASE=Heart_Valve_Disease THEN TREATMENT=Valve repair replacement or Balloon valvuloplastry are to be done";
+9 = "IF DISEASE=Hypertrophic_Cardiomyopathy THEN TREATMENT=Septal Myectomy and Alcohol septal ablation can cure this disease";
+10 = "IF DISEASE=Peripheral_arterial_disease THEN TREATMENT=Angioplastry,Bypass surgery are to be done. Supervised exercise program can help with the cure.";
+11 = "IF DISEASE=Stroke THEN TREATMENT=Tissue plasminogen activator should be given.Thrombectomy should be done.";
